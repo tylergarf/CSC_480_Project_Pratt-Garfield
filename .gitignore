@@ -1,1 +1,8 @@
 .ipynb_checkpoints/
+.virtual_documents/
+__MACOSX/
+avg_chans/
+data.zip
+results/
+vgg16_checpoints/
+wandb/
